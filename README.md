@@ -1,6 +1,6 @@
 # 🐱JUMPER
 
-
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 
 # 오픈소스 기반 안드로이드 모바일 캐주얼 게임
 
