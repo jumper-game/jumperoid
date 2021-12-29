@@ -75,9 +75,11 @@ https://user-images.githubusercontent.com/55903679/147664066-be23e2e2-ebfd-4cf2-
 주영
 
 ```
-- UML Diagram 제작 및 분석
+- UML Diagram 제작
+- UML 분석
 - PPT 제작
-- 게임 변경 기획 및 발표
+- 게임 변경 기획
+- 최종 발표
 ```
 
 <br/>
